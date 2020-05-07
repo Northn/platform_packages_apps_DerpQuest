@@ -855,7 +855,7 @@
     <string name="sb_battery_bar_battery_low_color">Цвет полосы низкого заряда батареи</string>
     <string name="sb_battery_bar_reversed">Перевернутый</string>
     <string name="sb_battery_bar_use_gradient_color">Использовать градиент</string>
-    <string name="sb_battery_bar_gradient_color_summary">Использовать градиент в качестве шкалы для уровня заряда батареи</string>
+    <string name="sb_battery_bar_gradient_color_summary">Использовать градиент для шкалы уровня заряда батареи</string>
     <string name="sb_battery_bar_high_color">Высокоуровневый цвет\"</string>
     <string name="sb_battery_bar_low_color">Низкоуровневый цвет\"</string>
 </resources>
