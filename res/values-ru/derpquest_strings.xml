@@ -874,15 +874,15 @@
     <string name="selinux_unrooted_summary">Не удалось обнаружить root-доступ. Для использования этих переключателей необходим root</string>
     <string name="cannot_get_su">Не удалось выполнить из-за отсутствия доступа суперпользователя</string>
     <!-- Blink flashlight for incoming calls -->
-    <string name="flashlight_on_call_title">Мигать фонариком для входящих звонков</string>
+    <string name="flashlight_on_call_title">Индикация входящих звонков</string>
     <string name="flashlight_on_call_disabled">Отключено</string>
     <string name="flashlight_on_call_ringer">При звонке</string>
     <string name="flashlight_on_call_no_ringer">При звонке в беззвучном режиме</string>
     <string name="flashlight_on_call_silent">Когда совершенно беззвучно (без звонка или вибрации)</string>
     <string name="flashlight_on_call_always">Всегда</string>
-    <string name="flashlight_on_call_ignore_dnd_title">Игнорировать \"Не беспокоить\"</string>
-    <string name="flashlight_on_call_ignore_dnd_summary">Мигать ли когда в режиме \"Не беспокоить\"</string>
-    <string name="flashlight_on_call_rate_title">Оценить</string>
+    <string name="flashlight_on_call_ignore_dnd_title">Игнорировать режим \"Не беспокоить\"</string>
+    <string name="flashlight_on_call_ignore_dnd_summary">Мигать несмотря на режим \"Не беспокоить\"</string>
+    <string name="flashlight_on_call_rate_title">Частота</string>
     <string name="flashlight_on_call_rate_summary">Частота моргания вспышки при звонке</string>
     <!-- QS Header Data Usage -->
     <string name="qs_datausage_title">Использование данных в заголовке быстрых настроек</string>
