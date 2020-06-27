@@ -80,7 +80,7 @@
     <string name="powermenu_lockdown">Заблокировать</string>
     <string name="powermenu_users">Пользователи</string>
     <string name="powermenu_logout">Выход</string>
-    <string name="powermenu_torch">Фонарь</string>
+    <string name="powermenu_torch">Фонарик</string>
     <!-- Volume settings -->
     <string name="hardware_keys_vol_key_title">Кнопка громкости</string>
     <!-- Buttons backlight timeout -->
