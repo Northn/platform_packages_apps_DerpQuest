@@ -43,7 +43,7 @@
     <string name="cancel">Отмена</string>
     <string name="save">Сохранить</string>
     <string name="default_string">По умолчанию</string>
-    <string name="enable_first">Пожалуйста, включите сначала</string>
+    <string name="enable_first">Пожалуйста, сначала включите</string>
     <string name="no_browser">Пожалуйста, выберите браузер по умолчанию</string>
     <string name="general_category">Общие сведения</string>
     <string name="look_category">Вид</string>
