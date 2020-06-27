@@ -43,7 +43,7 @@
     <string name="cancel">Отмена</string>
     <string name="save">Сохранить</string>
     <string name="default_string">По умолчанию</string>
-    <string name="enable_first">Пожалуйста, сначала включите</string>
+    <string name="enable_first">Пожалуйста, включите сначала</string>
     <string name="no_browser">Пожалуйста, выберите браузер по умолчанию</string>
     <string name="general_category">Общие сведения</string>
     <string name="look_category">Вид</string>
@@ -146,7 +146,7 @@
     <string name="battery_light_full_color">Почти полный заряд батареи</string>
     <string name="battery_light_reallyfull_color">Полный (100) заряд батареи</string>
     <string name="led_category">Светодиод</string>
-    <string name="flashlight_category">Фонарь</string>
+    <string name="flashlight_category">Фонарик</string>
     <string name="onscreen_category">На экране</string>
     <string name="notification_light_settings">Индикатор уведомлений</string>
     <!-- Fingerprint authentication vibration -->
