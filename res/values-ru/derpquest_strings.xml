@@ -889,4 +889,7 @@
     <string name="qs_datausage_disabled">Отключено</string>
     <string name="qs_datausage_daily">Ежедневное использование</string>
     <string name="qs_datausage_monthly">Ежемесячное использование</string>
+    <!-- StatusBar notification count -->
+    <string name="notif_count_title">Количество уведомлений</string>
+    <string name="notif_count_summary">Показывать количество уведомлений рядом с значками уведомлений</string>
 </resources>
